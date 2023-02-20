@@ -7,5 +7,5 @@
 ## Preparação dos dados:
 
 1.  Baixar aquivo: Dicionário_de_Dados_-_Pesquisa_de_Satisfação_do_Passageiro.csv
-2.  Exportar a primeira tab, "Pesquisa_de_Satisfação_2013-2019" como CSV
-3.  Exportar a terceira tab, "Lista de Aeroportos" como CSV
+2.  Exportar a primeira tab, "Pesquisa_de_Satisfação_2013-2019" como CSV e renomeá-lo "aula_1_satisfacao_passageiro.csv
+3.  Exportar a terceira tab, "Lista de Aeroportos" como CSV" e renomeá-lo "aeroportos_nomes.csv"
